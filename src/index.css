@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.backScreen{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.button{
+    color:#000;
+    text-shadow: 0.25rem black;
+    padding: 10px 30px;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
